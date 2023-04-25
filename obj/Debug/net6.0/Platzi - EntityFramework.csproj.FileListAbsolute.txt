@@ -1,0 +1,29 @@
+D:\NET\Platzi - EntityFramework\bin\Debug\net6.0\appsettings.Development.json
+D:\NET\Platzi - EntityFramework\bin\Debug\net6.0\appsettings.json
+D:\NET\Platzi - EntityFramework\bin\Debug\net6.0\Platzi - EntityFramework.exe
+D:\NET\Platzi - EntityFramework\bin\Debug\net6.0\Platzi - EntityFramework.deps.json
+D:\NET\Platzi - EntityFramework\bin\Debug\net6.0\Platzi - EntityFramework.runtimeconfig.json
+D:\NET\Platzi - EntityFramework\bin\Debug\net6.0\Platzi - EntityFramework.dll
+D:\NET\Platzi - EntityFramework\bin\Debug\net6.0\Platzi - EntityFramework.pdb
+D:\NET\Platzi - EntityFramework\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\NET\Platzi - EntityFramework\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\NET\Platzi - EntityFramework\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\NET\Platzi - EntityFramework\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\NET\Platzi - EntityFramework\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\NET\Platzi - EntityFramework\bin\Debug\net6.0\Npgsql.dll
+D:\NET\Platzi - EntityFramework\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\NET\Platzi - EntityFramework\obj\Debug\net6.0\Platzi - EntityFramework.csproj.AssemblyReference.cache
+D:\NET\Platzi - EntityFramework\obj\Debug\net6.0\Platzi - EntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+D:\NET\Platzi - EntityFramework\obj\Debug\net6.0\Platzi - EntityFramework.AssemblyInfoInputs.cache
+D:\NET\Platzi - EntityFramework\obj\Debug\net6.0\Platzi - EntityFramework.AssemblyInfo.cs
+D:\NET\Platzi - EntityFramework\obj\Debug\net6.0\Platzi - EntityFramework.csproj.CoreCompileInputs.cache
+D:\NET\Platzi - EntityFramework\obj\Debug\net6.0\Platzi - EntityFramework.MvcApplicationPartsAssemblyInfo.cache
+D:\NET\Platzi - EntityFramework\obj\Debug\net6.0\staticwebassets.build.json
+D:\NET\Platzi - EntityFramework\obj\Debug\net6.0\staticwebassets.development.json
+D:\NET\Platzi - EntityFramework\obj\Debug\net6.0\scopedcss\bundle\Platzi - EntityFramework.styles.css
+D:\NET\Platzi - EntityFramework\obj\Debug\net6.0\Platzi - EntityFramework.csproj.CopyComplete
+D:\NET\Platzi - EntityFramework\obj\Debug\net6.0\Platzi - EntityFramework.dll
+D:\NET\Platzi - EntityFramework\obj\Debug\net6.0\refint\Platzi - EntityFramework.dll
+D:\NET\Platzi - EntityFramework\obj\Debug\net6.0\Platzi - EntityFramework.pdb
+D:\NET\Platzi - EntityFramework\obj\Debug\net6.0\Platzi - EntityFramework.genruntimeconfig.cache
+D:\NET\Platzi - EntityFramework\obj\Debug\net6.0\ref\Platzi - EntityFramework.dll
