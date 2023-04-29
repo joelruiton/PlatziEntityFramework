@@ -27,6 +27,7 @@ public class TareasContext : DbContext
 
             categoria.Property(p => p.Peso);
 
+            //Agrega datos por defecto
             categoria.HasData(categoriasInit);
         });
 
@@ -51,6 +52,7 @@ public class TareasContext : DbContext
 
             tarea.Ignore(p => p.Resumen);
 
+            //Agrega datos por defecto
             tarea.HasData(tareasInit);
         });
 

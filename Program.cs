@@ -25,6 +25,7 @@ app.MapGet("/dbconexion", async ([FromServices] TareasContext dbContext) =>
 
 app.MapGet("/api/tareas", async ([FromServices] TareasContext dbContext) =>
 {
+    //Include agrega los datos de la tabla relacionada, en este caso agrega el detalle de la categoria al json de respuesta
     return Results.Ok(dbContext.Tareas.Include(p => p.Categoria));
 });
 
@@ -62,6 +63,7 @@ app.MapPut("/api/tareas/{id}", async ([FromServices] TareasContext dbContext, [F
 
 app.MapDelete("/api/tareas/{id}", async ([FromServices] TareasContext dbContext, [FromRoute] Guid id) =>
 {
+    //Por defecto Find busca el valor dentro de la llave primaria
     var tareaActual = dbContext.Tareas.Find(id);
 
     if (tareaActual != null)
